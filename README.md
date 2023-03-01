@@ -38,7 +38,7 @@ Meus projetos são voltados para a web e desenvolvimento mobile, mas também pre
 
 Aqui você pode ver alguns dos meus principais projetos:
 
-- [NLW Setup Explorer](https://github.com/coelho0123/NLWSetup-explorer)
+- [NLW Setup Explorer](https://github.com/muriloCoelho1212/NLWSetup-explorer)
 - [Ignite Lab 03 - Design System](https://github.com/coelho0123/ignite-lab-design-system)
 
 ---
