@@ -17,11 +17,9 @@
 Veja algumas tecnologias que você encontrará em meu perfil:
 
 - HTML e CSS;
-- Bootstrap;
 - JavaScript;
 - Node.js;
 - TypeScript;
-- PHP;
 - C#;
 - Xamarin.
 
