@@ -42,7 +42,7 @@ Aqui você pode ver alguns dos meus principais projetos:
 
 ## Curiosidades
 
-Tenho 17 anos e comecei a me interessar pelo mundo da programação com 15 anos. Com o intuito de aprender mais sobre a área, passei pelo processo seletivo da ETEC e iniciei no curso de Desenvolvimento de Sistemas, onde hoje estou no último semestre, conheci pessoas íncriveis e aprendi diversas tecnologias, dos mais variados campos da informática, do Front-End ao Banco de Dados e até mesmo programação com Arduíno.
+Tenho 17 anos e comecei a me interessar pelo mundo da programação com 15 anos. Com o intuito de aprender mais sobre a área, passei pelo processo seletivo da ETEC e iniciei no curso de Desenvolvimento de Sistemas, já finalizado. Conheci pessoas íncriveis e aprendi diversas tecnologias, dos mais variados campos da informática, do Front-End ao Back-End, Banco de Dados e até mesmo programação com Arduíno.
 **Hoje pretendo seguir na área como desenvolvedor back-end ou mobile, pois me identifiquei com essas áreas e procuro aprender incessantemente sobre elas.**
 Além disso, nas horas vagas gosto de pesquisar sobre desenvolvimento de games e UI/UX.
 
