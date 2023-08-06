@@ -18,10 +18,12 @@ Veja algumas tecnologias que você encontrará em meu perfil:
 
 - HTML e CSS;
 - JavaScript;
-- Node.js;
-- TypeScript;
-- C#;
-- Xamarin.
+
+Porém estou interessado em aprender:
+
+- Node.js
+- TypeScript
+- Vue.js
 
 Além das tecnologias citadas, também trabalho com ferramentas de edição, como:
 
@@ -32,7 +34,7 @@ Além das tecnologias citadas, também trabalho com ferramentas de edição, com
 
 ## Projetos
 
-Meus projetos são voltados para a web e desenvolvimento mobile, mas também pretendo criar bots para plataformas como discord e whatsapp.
+Meus projetos são voltados para a web e desenvolvimento mobile, porém pretendo criar projetos na área de back-end.
 
 Aqui você pode ver alguns dos meus principais projetos:
 
@@ -45,7 +47,7 @@ Aqui você pode ver alguns dos meus principais projetos:
 
 Tenho 17 anos e comecei a me interessar pelo mundo da programação com 15 anos. Com o intuito de aprender mais sobre a área, passei pelo processo seletivo da ETEC e iniciei no curso de Desenvolvimento de Sistemas, já finalizado. Conheci pessoas íncriveis e aprendi diversas tecnologias, dos mais variados campos da informática, do Front-End ao Back-End, Banco de Dados e até mesmo programação com Arduíno.
 **Hoje pretendo seguir na área como desenvolvedor back-end ou mobile, pois me identifiquei com essas áreas e procuro aprender incessantemente sobre elas.**
-Além disso, nas horas vagas gosto de pesquisar sobre desenvolvimento de games e UI/UX.
+Além disso, nas horas vagas gosto de pesquisar sobre desenvolvimento de games.
 
 ---
 
