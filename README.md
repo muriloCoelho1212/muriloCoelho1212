@@ -43,6 +43,12 @@ Aqui você pode ver alguns dos meus principais projetos:
 
 ---
 
+## Organizations
+
+Eu organizo os repositórios das formações feitas na plataforma da Alura pelas Organizations, aqui estão as principais formações já feitas:
+
+-[Desenvolva aplicações Web com JavaScript](https://github.com/Alura-Desenvolva-aplicacoes-Web-com-JS)
+
 ## Curiosidades
 
 Tenho 17 anos e comecei a me interessar pelo mundo da programação com 15 anos. Com o intuito de aprender mais sobre a área, passei pelo processo seletivo da ETEC e iniciei no curso de Desenvolvimento de Sistemas, já finalizado. Conheci pessoas íncriveis e aprendi diversas tecnologias, dos mais variados campos da informática, do Front-End ao Back-End, Banco de Dados e até mesmo programação com Arduíno.
