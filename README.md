@@ -25,7 +25,7 @@ Porém estou interessado em aprender:
 - TypeScript
 - Vue.js
 
-Além das tecnologias citadas, também trabalho com ferramentas de edição, como:
+Além das tecnologias citadas, também utilizo com ferramentas de edição, como:
 
 - Figma;
 - Photoshop.
