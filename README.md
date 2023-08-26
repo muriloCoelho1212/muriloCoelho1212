@@ -47,7 +47,7 @@ Aqui você pode ver alguns dos meus principais projetos:
 
 Eu organizo os repositórios das formações feitas na plataforma da Alura pelas Organizations, aqui estão as principais formações já feitas:
 
--[Desenvolva aplicações Web com JavaScript](https://github.com/Alura-Desenvolva-aplicacoes-Web-com-JS)
+- [Desenvolva aplicações Web com JavaScript](https://github.com/Alura-Desenvolva-aplicacoes-Web-com-JS)
 
 ## Curiosidades
 
