@@ -14,7 +14,7 @@
 
 ## Tecnologias
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[Murilo Coelho](https://github-readme-stats.vercel.app/api?username=muriloCoelho1212&show_icons=true)
 
 Veja algumas tecnologias que você encontrará em meu perfil:
 
