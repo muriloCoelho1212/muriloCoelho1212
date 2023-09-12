@@ -14,7 +14,9 @@
 
 ## Tecnologias
 
-[(https://github-readme-stats.vercel.app/api?username=muriloCoelho1212&show_icons=true)]
+[![Murilo Coelho](https://github-readme-stats.vercel.app/api?username=muriloCoelho1212&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 Veja algumas tecnologias que você encontrará em meu perfil:
 
