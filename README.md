@@ -27,6 +27,11 @@ Veja algumas tecnologias que você encontrará em meu perfil:
 - Node.js
 - Vue.js
 
+Também gostaria de aprender:
+
+- C#;
+- Desenvolvimento de Games (Unity ou Unreal)
+
 Além das tecnologias citadas, também utilizo com ferramentas de edição, como:
 
 - Figma;
