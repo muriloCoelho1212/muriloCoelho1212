@@ -22,11 +22,9 @@ Veja algumas tecnologias que você encontrará em meu perfil:
 
 - HTML e CSS;
 - JavaScript;
-
-Porém estou interessado em aprender:
-
+- TypeScript;
+- React;
 - Node.js
-- TypeScript
 - Vue.js
 
 Além das tecnologias citadas, também utilizo com ferramentas de edição, como:
