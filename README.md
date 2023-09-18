@@ -27,7 +27,7 @@ Veja algumas tecnologias que você encontrará em meu perfil:
 - Node.js
 - Vue.js
 
-Também gostaria de aprender:
+Também gostaria de me aprofundar e aprender mais sobre:
 
 - C#;
 - Desenvolvimento de Games (Unity ou Unreal)
