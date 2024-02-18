@@ -14,9 +14,7 @@
 
 ## Tecnologias
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muriloCoelho1212&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muriloCoelho1212&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Veja algumas tecnologias que você encontrará em meu perfil:
 
@@ -59,9 +57,7 @@ Eu organizo os repositórios das formações feitas na plataforma da Alura pelas
 
 ## Curiosidades
 
-Tenho 17 anos e comecei a me interessar pelo mundo da programação com 15 anos. Com o intuito de aprender mais sobre a área, passei pelo processo seletivo da ETEC e iniciei no curso de Desenvolvimento de Sistemas, já finalizado. Conheci pessoas íncriveis e aprendi diversas tecnologias, dos mais variados campos da informática, do Front-End ao Back-End, Banco de Dados e até mesmo programação com Arduíno.
-**Hoje pretendo seguir na área como desenvolvedor back-end ou mobile, pois me identifiquei com essas áreas e procuro aprender incessantemente sobre elas.**
-Além disso, nas horas vagas gosto de pesquisar sobre desenvolvimento de games.
+Tenho 17 anos e comecei a me interessar pelo mundo da programação com 15 anos. Com o intuito de aprender mais sobre a área, passei pelo processo seletivo da ETEC e iniciei no curso de Desenvolvimento de Sistemas, já finalizado. Atualmente, curso Engenharia da Computação pela Facens e trabalho como desenvolvedor pela Raven em um projeto de gestão automotiva, o [Autotech](https://app.gestaoautotech.com.br/home).
 
 ---
 
