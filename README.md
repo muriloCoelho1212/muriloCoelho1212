@@ -1,5 +1,9 @@
-# Olá, sou o Murilo!
-## Seja bem vindo ao meu perfil GitHub 👋
+# Murilo Coelho - Software Developer
+
+## Contato
+
+- Discord: murilo_coelho (ou muriloCoelho#0671);
+- LinkedIn: <https://www.linkedin.com/in/murilo-coelho-359a23271/>
 
 ---
 
@@ -24,11 +28,7 @@ Veja algumas tecnologias que você encontrará em meu perfil:
 - React;
 - Node.js
 - Vue.js
-
-Também gostaria de me aprofundar e aprender mais sobre:
-
-- C#;
-- Desenvolvimento de Games (Unity ou Unreal)
+- C#
 
 Além das tecnologias citadas, também utilizo com ferramentas de edição, como:
 
@@ -48,24 +48,14 @@ Aqui você pode ver alguns dos meus principais projetos:
 
 ---
 
-## Organizations
-
-Eu organizo os repositórios das formações feitas na plataforma da Alura pelas Organizations, aqui estão as principais formações já feitas:
-
-- [Desenvolva aplicações Web com JavaScript](https://github.com/Alura-Desenvolva-aplicacoes-Web-com-JS)
-- [Orientação a Objetos com JavaScript](https://github.com/orgs/Alura-Orientacao-Objetos-JS/repositories)
-
 ## Curiosidades
 
-Tenho 17 anos e comecei a me interessar pelo mundo da programação com 15 anos. Com o intuito de aprender mais sobre a área, passei pelo processo seletivo da ETEC e iniciei no curso de Desenvolvimento de Sistemas, já finalizado. Atualmente, curso Engenharia da Computação pela Facens e trabalho como desenvolvedor pela Raven em um projeto de gestão automotiva, o [Autotech](https://app.gestaoautotech.com.br/home).
+Comecei a estudar desenvolvimento de software aos 15 anos e, aos 16, ingressei no curso de desenvolvimento de sistemas pela ETEC, onde obtive conhecimentos sobre C#, PHP e SQL, concluindo-o aos 17. 
+Meu primeiro estágio na área foi após o encerramento do curso pela Brengatech e, depois de 5 meses, fui efetivado como desenvolvedor de software pela mesma, atuando no projeto Autotech. Sendo desenvolvido com o framework Quasar, do Vue.js, junto com TypeScript no front-end e Node.js e TypeScript no back-end.
+Atualmente, curso Engenharia de Computação pela Facens.
 
 ---
 
-## Contato
 
-- Discord: murilo_coelho (ou muriloCoelho#0671);
-- LinkedIn: <https://www.linkedin.com/in/murilo-coelho-359a23271/>
-
----
 
 <h3 align="center">Obrigado por ler 😄</h3>
