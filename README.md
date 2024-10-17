@@ -29,7 +29,7 @@ Veja algumas tecnologias que você encontrará em meu perfil:
 - Vue.js
 - C#
 
-Além das tecnologias citadas, também utilizo com ferramentas de edição, como:
+Além das tecnologias citadas, também utilizo ferramentas de edição e prototipagem, como:
 
 - Figma;
 - Photoshop.
